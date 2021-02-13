@@ -1,0 +1,2 @@
+- slice glitch | horizontal / vertical
+  - https://codepen.io/snamiki1212/pen/mdOELWb
